@@ -1,0 +1,24 @@
+# user ids:
+- me: 189118524784902146
+https://media.discordapp.net/attachments/1098028572960104579/1098037574473351199/sova01.png
+https://media.discordapp.net/attachments/1098028572960104579/1098037575014420661/sova02.png
+- welson: 156510683805122561
+https://media.discordapp.net/attachments/1098028572960104579/1098037573940695191/phoenix01.png
+https://media.discordapp.net/attachments/1098028572960104579/1098037574221697065/phoenix02.png
+- henry: 220925499885486081
+https://media.discordapp.net/attachments/1098028572960104579/1098037550607777903/kayo01.png
+https://media.discordapp.net/attachments/1098028572960104579/1098037550934937600/kayo02.png
+- junyi: 181152374075686913
+https://media.discordapp.net/attachments/1098028572960104579/1098037550083481600/jett01.png
+https://media.discordapp.net/attachments/1098028572960104579/1098037550330957914/jett02.png
+- judith: 206950016453967872
+https://media.discordapp.net/attachments/1098028572960104579/1098037551253700669/killjoy01.png
+https://media.discordapp.net/attachments/1098028572960104579/1098037551522127993/killjoy02.png
+- elenka: 423937148610412565
+https://media.discordapp.net/attachments/1098028572960104579/1098042351575892041/raze01.png
+https://media.discordapp.net/attachments/1098028572960104579/1098042351844331540/raze02.png
+- andrei: 141028122274299904
+https://media.discordapp.net/attachments/1098028572960104579/1098042351143882802/brimstone01.png
+https://media.discordapp.net/attachments/1098028572960104579/1098042351357800448/brimstone02.png
+- clement: 
+- hermes: 188847968151928833
