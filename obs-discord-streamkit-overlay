@@ -1,38 +1,39 @@
 li>img[class^="Voice_avatar"]{display:none;}
+/* div>span[class^="Voice_name"]{ display:none;} */
 div>span[class^="Voice_name"]{ display:none;}
 div>ul[class^="Voice_voiceStates"]{ display:flex!important; flex-direction:row; flex-wrap:nowrap; justify-content:space-around; align-items:flex-end; vertical-align:bottom; margin:0!important;}
 
 /* me */
-li>img[class^="Voice_avatar"][src*="189118524784902146"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098037574473351199/sova01.png);}
-li>img[class*="Speaking"][src*="189118524784902146"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098037575014420661/sova02.png);}
+li>img[class^="Voice_avatar"][src*="189118524784902146"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098111962354810940/me01.png);}
+li>img[class*="Speaking"][src*="189118524784902146"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098111962635841576/me02.png);}
 
 /* welson */
-li>img[class^="Voice_avatar"][src*="156510683805122561"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098037573940695191/phoenix01.png);}
-li>img[class*="Speaking"][src*="156510683805122561"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098037574221697065/phoenix02.png);}
+li>img[class^="Voice_avatar"][src*="156510683805122561"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098111962883309619/welson01.png);}
+li>img[class*="Speaking"][src*="156510683805122561"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098111963168505886/welson02.png);}
 
 /* henry */
-li>img[class^="Voice_avatar"][src*="220925499885486081"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098037550607777903/kayo01.png);}
-li>img[class*="Speaking"][src*="220925499885486081"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098037550934937600/kayo02.png);}
+li>img[class^="Voice_avatar"][src*="220925499885486081"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098111926896169100/henry01.png);}
+li>img[class*="Speaking"][src*="220925499885486081"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098111927395295313/henry02.png);}
 
 /* junyi */
-li>img[class^="Voice_avatar"][src*="181152374075686913"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098037550083481600/jett01.png);}
-li>img[class*="Speaking"][src*="181152374075686913"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098037550330957914/jett02.png);}
+li>img[class^="Voice_avatar"][src*="181152374075686913"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098111961415299183/junyi01.png);}
+li>img[class*="Speaking"][src*="181152374075686913"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098111961675350096/junyi02.png);}
 
 /* judith */
-li>img[class^="Voice_avatar"][src*="206950016453967872"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098037551253700669/killjoy01.png);}
-li>img[class*="Speaking"][src*="206950016453967872"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098037551522127993/killjoy02.png);}
+li>img[class^="Voice_avatar"][src*="206950016453967872"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098111960807129208/judith01.png);}
+li>img[class*="Speaking"][src*="206950016453967872"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098111961155239947/judith02.png);}
 
 /* andrei */
-li>img[class^="Voice_avatar"][src*="141028122274299904"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098042351143882802/brimstone01.png);}
-li>img[class*="Speaking"][src*="141028122274299904"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098042351357800448/brimstone02.png);}
+li>img[class^="Voice_avatar"][src*="141028122274299904"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098111928737472612/andrei01.png);}
+li>img[class*="Speaking"][src*="141028122274299904"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098111925658861598/andrei02.png);}
 
 /* elenka */
-li>img[class^="Voice_avatar"][src*="423937148610412565"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098042351575892041/raze01.png);}
-li>img[class*="Speaking"][src*="423937148610412565"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098042351844331540/raze02.png);}
+li>img[class^="Voice_avatar"][src*="423937148610412565"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098111926011170856/elenka01.png);}
+li>img[class*="Speaking"][src*="423937148610412565"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098111926401253456/elenka02.png);}
 
 /* hermes */
-li>img[class^="Voice_avatar"][src*="188847968151928833"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098037575324795001/omen01.png);}
-li>img[class*="Speaking"][src*="188847968151928833"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098037573617713202/omen02.png);}
+li>img[class^="Voice_avatar"][src*="188847968151928833"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098111927869259847/hermes01.png);}
+li>img[class*="Speaking"][src*="188847968151928833"]{display:block;content:url(https://media.discordapp.net/attachments/1098028572960104579/1098111928385146910/hermes02.pngs);}
 
 /* 
 li>img[class^="Voice_avatar"][src*="181152374075686913"]{display:block;content:url(idle);}
@@ -61,7 +62,7 @@ img[class*="Speaking"]{
 }
 
 
-li.[class^="Voice_voiceState"]{position:static;}
+li.[class^="Voice_voiceState"]{position:static;padding:0px; margin: 0px;display:inline;}
 div.user{position:absolute; left:40%; bottom:5%;}
 
-body {background-color: rgba(0,0,0,0); margin:0px auto;overflow:hidden;}
+body {height:200px; background-repeat: no-repeat;background-image: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0, 1) 100%); background-color: rgba(0,0,0,0); margin:0px auto;overflow:hidden;}
