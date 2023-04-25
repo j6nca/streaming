@@ -1,6 +1,6 @@
 li>img[class^="Voice_avatar"]{display:none;}
 /* div>span[class^="Voice_name"]{ display:none;} */
-div>span[class^="Voice_name"]{ display:none;}
+div>span[class^="Voice_name"]{ margin: 0 auto; }
 div>ul[class^="Voice_voiceStates"]{ display:flex!important; flex-direction:row; flex-wrap:nowrap; justify-content:space-around; align-items:flex-end; vertical-align:bottom; margin:0!important;}
 
 /* me */
